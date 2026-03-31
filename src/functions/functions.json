@@ -1,0 +1,45 @@
+{
+  "allowCustomDataForDataTypeAny": true,
+  "functions": [
+    {
+      "id": "ADD",
+      "name": "ADD",
+      "description": "Adds two numbers",
+      "parameters": [
+        {
+          "name": "a",
+          "description": "First number",
+          "type": "number",
+          "dimensionality": "scalar"
+        },
+        {
+          "name": "b",
+          "description": "Second number",
+          "type": "number",
+          "dimensionality": "scalar"
+        }
+      ],
+      "result": {
+        "type": "number",
+        "dimensionality": "scalar"
+      }
+    },
+    {
+      "id": "GET",
+      "name": "GET",
+      "description": "Returns the input value",
+      "parameters": [
+        {
+          "name": "value",
+          "description": "The value to return",
+          "type": "string",
+          "dimensionality": "scalar"
+        }
+      ],
+      "result": {
+        "type": "string",
+        "dimensionality": "scalar"
+      }
+    }
+  ]
+}

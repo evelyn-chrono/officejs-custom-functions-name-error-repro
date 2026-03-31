@@ -1,0 +1,15 @@
+{
+  "name": "custom-functions-protected-sheet-repro",
+  "version": "1.0.0",
+  "description": "Minimal repro: Office.js custom functions not recognized on protected worksheets",
+  "scripts": {
+    "start": "webpack serve --mode development"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^12.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-dev-server": "^5.0.0"
+  }
+}
