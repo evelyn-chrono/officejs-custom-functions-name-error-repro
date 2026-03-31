@@ -1,0 +1,24 @@
+README.md
+  7cbad287bb15fbc4 26-63,75-76,78-79,85-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "433146a97d3416c4a6f647f135096637594796a8",
+  "prompts": {
+    "7cbad287bb15fbc4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fbf1378e-a8bc-4487-8f89-b4c20dc1043f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "evelyn-chrono <evelyn.nelson@chronograph.pe>",
+      "messages": [],
+      "total_additions": 48,
+      "total_deletions": 11,
+      "accepted_lines": 45,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/efee8fe36f9e76be2daab15b0da4adb6e495836ab89cc601586b0a5be5b4e1f3"
+    }
+  }
+}
